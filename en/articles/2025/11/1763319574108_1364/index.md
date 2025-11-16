@@ -36,7 +36,7 @@ hash: '130a653ac031d67d92a03f557d767bbbcfdf2498'
 uuid: '130a653a-c031-567d-a2a0-3f557d767bbb'
 slug: '130a653a-c031-567d-a2a0-3f557d767bbb'
 
-draft: 1
+draft: 0
 ---
 
 Hello!
