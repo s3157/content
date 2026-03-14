@@ -1,5 +1,6 @@
 ---
 title: 'О проекте'
+description: 'Информация о проекте и смежных ресурсах.'
 ---
 
 В работе с ZFS я использую ОС Debian и пути к дискам (`by-path`). Если кто-то захочет использовать идентификаторы (`by-id`) дисков, то просто замените в командах пути на идентификаторы. В командах на этом сайте я работаю с пулом под названием `data`.
@@ -33,3 +34,11 @@ ls -l '/dev/disk/by-path/'
 ```bash
 ls -l '/dev/disk/by-id/'
 ```
+
+## Проекты
+
+{{< api "https://apihost.github.io/api/ru.dunaev.projects.json" >}}
+
+## Об авторе
+
+{{< api "https://raw.githubusercontent.com/apihost/apihost.github.io/refs/heads/main/docs/api/ru.dunaev.person.json" >}}
