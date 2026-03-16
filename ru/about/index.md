@@ -41,4 +41,4 @@ ls -l '/dev/disk/by-id/'
 
 ## Об авторе
 
-{{< api "https://raw.githubusercontent.com/apihost/apihost.github.io/refs/heads/main/docs/api/ru.dunaev.person.json" >}}
+{{< api "https://apihost.github.io/api/ru.dunaev.person.json" >}}
